@@ -21,7 +21,6 @@ The following dependencies are needed:
 * save patch image and mask into csv file: run the utils.py,like file trainSegmentation.csv.
 * split trainSegmentation.csv into training set and test set:run subset.py.
 
-
 **2、Brain Tumor Segmentation**
 * the VNet model
 
