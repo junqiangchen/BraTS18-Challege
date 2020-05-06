@@ -26,8 +26,9 @@ The following dependencies are needed:
 
 ![](3dVNet.png) 
 
-* Tumor Segmentation training:run the train_Brats.py.
-* Tumor Segmentation inference:run the predict_Brats.py.
+* Tumor Segmentation training:run the train_Brats.py
+* Tumor Segmentation predict:run the predict_Brats.py
+* Tumor Segmentation inference:run the inference_Brats.py
 
 ## Result
 
